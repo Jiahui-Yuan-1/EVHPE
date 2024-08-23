@@ -11,7 +11,8 @@ The current version of the dataset contains:
 
 The dataset can be downloaded here: https://1drv.ms/f/c/a06ca2a7cf038490/ElpcSL34FKRKjMuROuSgY98BGbFDfG90DQfyXYXKnwSo1A?e=Fy7dUD .
 
-## Dataset introduction
+## Dataset format and usage
 The format is arranged as follows:
+The usage is described as follows:
 
 ## Citation
